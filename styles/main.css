@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width:500px;
+    margin:20px auto;
+}
+
+input{
+  display:block;
+  margin:10px;
+}
+
+.invalid{
+    border:3px solid red;
+    background:#ff0011; 
+    
+  
+}
+
+#message p{
+  color:red;
+}
