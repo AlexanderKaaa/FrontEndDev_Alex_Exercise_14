@@ -22,3 +22,10 @@ input{
 #message p{
   color:red;
 }
+
+#termsAndConditions{
+display:inline-block;}
+
+#spacer{
+  margin-top:10px;
+}
